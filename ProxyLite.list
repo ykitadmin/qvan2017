@@ -2,13 +2,17 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,audid.umeng.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,36.143.252.104/32,no-resolve
+IP-CIDR,61.156.52.30/32,no-resolve
+IP-CIDR,116.196.157.100/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
